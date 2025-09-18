@@ -3,7 +3,10 @@ Jeremiah Carr
 jcarr12@terpmail.umd.edu
 INST326 - Section 0202
 
-Week- 1
+Week - 1
 
 When it comes to using AI this week, I didn't really use it much. We covered Gemini in class, but I haven't had the chance yet to play around with it. For the progress that I have made thus far on the lab for week 1, I have not had to use AI. I did however notice that as I am completing each question, the AI that is built into Google Colab (Gemini?) automatically tries to fill in the code for me based on what the instructions are asking and what I have begun to input. Some of it is helpful and some isn't. Especially as someone who is still trying to get hang of the basics, I feel like it doesn't give me a complete chance to do it on my own, so I ignore it as best I can, but use it if I fell like I am getting stuck, while also having it explain what I am doing wrong so I can fix it. 
 
+Week - 2
+
+This week, I utulized AI, specifically ChatGPT to explore more about my hair products that I use and how they help my hair type. I also used it in my week 2 expercies, both Gemini and Chat to give me more problems to answer and practice with, while not providing any direct answers so that I can learn and become better at coding overall. 
