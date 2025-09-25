@@ -9,4 +9,16 @@ When it comes to using AI this week, I didn't really use it much. We covered Gem
 
 Week - 2
 
-This week, I utulized AI, specifically ChatGPT to explore more about my hair products that I use and how they help my hair type. I also used it in my week 2 expercies, both Gemini and Chat to give me more problems to answer and practice with, while not providing any direct answers so that I can learn and become better at coding overall. 
+This week, I utulized AI, specifically ChatGPT to explore more about my hair products that I use and how they help my hair type. I also used it in my week 2 expercies, both Gemini and Chat to give me more problems to answer and practice with, while not providing any direct answers so that I can learn and become better at coding overall.
+
+Week - 3 
+
+During week 3 I used AI, specifically chatGPT a few times. First, my October RA bulletin boards
+are due and I needed a title for this months critical messaging information that related to my theme
+of my floor and mental health. I asked chatGPT based on my floor theme and the theme of October
+critial messaging good title ideas that were short and fun. I ended up getting "Destination: YOU". 
+I also used it to describe to me how specific skills for an internship I am interested in relates
+to the current work experience I have as I develop my resume to specific internship opportinities. 
+Lastly, I used Gemini and ChatGPT to explain areas of Lab 2 and parts of Lab 3 providing examples and practice.
+More specifically, I asked it to give me a list of basic projects that I can work on during my own time
+to get better at coding in VSCode and using Python. 
