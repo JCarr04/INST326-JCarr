@@ -22,3 +22,12 @@ to the current work experience I have as I develop my resume to specific interns
 Lastly, I used Gemini and ChatGPT to explain areas of Lab 2 and parts of Lab 3 providing examples and practice.
 More specifically, I asked it to give me a list of basic projects that I can work on during my own time
 to get better at coding in VSCode and using Python. 
+
+Week - 4
+
+This week I used AI in my discussion board post. I chose option 3 where I asked AI to genrate
+a Class for an object of my choice. In this I decided to ask Chat to make a class for a bed. It 
+was interesting to see what it came up with as it was for the most part very detailed and included
+everything that it needed to in terms of functions and methods. I would personally add more to it though
+to expand on its functionality overall. I also used AI to generate a few more examples for personal
+understanding of classes and objects. 
