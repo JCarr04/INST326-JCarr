@@ -31,3 +31,9 @@ was interesting to see what it came up with as it was for the most part very det
 everything that it needed to in terms of functions and methods. I would personally add more to it though
 to expand on its functionality overall. I also used AI to generate a few more examples for personal
 understanding of classes and objects. 
+
+Week - 5
+In week 5 I used chatGPT and Copilot in my search for things to do in Los Angles and San Jose California. I am planning a trip there
+with some friends in January and needed some help figuring out what would be a decent amount to save and activities to do while I'm there. 
+I also used AI to give me an idea about the different types of classes that could exists in my project without providing any specific code
+to begin to brainstorm and work on the functions librabry that is due on the 12th of October. 
