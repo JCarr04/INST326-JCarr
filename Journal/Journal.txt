@@ -37,3 +37,8 @@ In week 5 I used chatGPT and Copilot in my search for things to do in Los Angles
 with some friends in January and needed some help figuring out what would be a decent amount to save and activities to do while I'm there. 
 I also used AI to give me an idea about the different types of classes that could exists in my project without providing any specific code
 to begin to brainstorm and work on the functions librabry that is due on the 12th of October. 
+
+Week - 6
+During week 6, I used AI in a few ways. The first thing I did was use AI to help to write my paper for INST455 paper that instructed us to use
+AI to help us expand on a topic of article dealing with technology of some sort. I also used AI in planning for my trip to cali in the future. 
+Lastly, AI was used to explain classes in different examples as I work to practice and get better coding. 
