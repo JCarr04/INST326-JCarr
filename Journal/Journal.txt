@@ -42,3 +42,8 @@ Week - 6
 During week 6, I used AI in a few ways. The first thing I did was use AI to help to write my paper for INST455 paper that instructed us to use
 AI to help us expand on a topic of article dealing with technology of some sort. I also used AI in planning for my trip to cali in the future. 
 Lastly, AI was used to explain classes in different examples as I work to practice and get better coding. 
+
+Week 7 
+Week 7 we discussed error handling and testing. Looking at our porject and using AI I explored a couple of different ways that 
+errors can show up in our system. I looked closely at how we could also ensure that our code blocks unsupported files and block corrupt
+files to ensure proper functionality. I also used AI in my inquiry about bitcoin and crypto currency as an emerging technology. .
