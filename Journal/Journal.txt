@@ -60,3 +60,8 @@ trip was part of that. As for the second way that I used AI, it was in the creat
 of the concept outside of the discussion board and as I prepared to complete the week 9 exercies. I haven't done them before doing the 
 journal, so I can't say yet if I used it during the journal, but I may to help me with understanding any areas I may get stuck or fail to 
 understand how to do based on context or specific question. 
+
+Week - 10
+In week 10, I didn't really use AI for much other than in my dicussion board for the AI option. I prompted it to decide whether it would
+be better for two different classes that have to be connected if it should be done using inheretance or composition and proving examples. I
+ended up going with composition for the two classes I chose. 
