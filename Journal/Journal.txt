@@ -65,3 +65,11 @@ Week - 10
 In week 10, I didn't really use AI for much other than in my dicussion board for the AI option. I prompted it to decide whether it would
 be better for two different classes that have to be connected if it should be done using inheretance or composition and proving examples. I
 ended up going with composition for the two classes I chose. 
+
+Week - 11
+Thanksgiving break
+
+Week - 12
+This week I used AI to help explain what best meathod would be for organizing and cutting down the dataset of almost 40,000 rows for my 
+INST327 project. I also used AI to begin searching for some of the top MBA, Info Systems, and Management progams for post graduation as I 
+want to go out of state, but is still heavily considering UMD too. 
