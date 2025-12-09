@@ -73,3 +73,8 @@ Week - 12
 This week I used AI to help explain what best meathod would be for organizing and cutting down the dataset of almost 40,000 rows for my 
 INST327 project. I also used AI to begin searching for some of the top MBA, Info Systems, and Management progams for post graduation as I 
 want to go out of state, but is still heavily considering UMD too. 
+
+Week - 13
+For the last AI journal of the semester I didn't use much AI overall. I used AI to look at airline comparisons for a possible trip to Italy. 
+Additionally, I used AI to ask and explore different LLM's such as Claude, CHATGpt, Copilot, and more just to see how they differ from one another.
+I enjoyed using AI in this course and seeing the various ways it can be both correct or incorrect and the justifications. AI has come a long way!
